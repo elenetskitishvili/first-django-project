@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Django migrations
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Django static files
+staticfiles/
+
+# Ignore local environment settings
+.env
